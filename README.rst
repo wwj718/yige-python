@@ -10,7 +10,7 @@ yige-python
         :target: https://travis-ci.org/wwj718/yige
 
 .. image:: https://readthedocs.org/projects/yige/badge/?version=latest
-        :target: https://yige.readthedocs.io/en/latest/?badge=latest
+        :target: https://yige-python.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 .. image:: https://pyup.io/repos/github/wwj718/yige/shield.svg
@@ -22,7 +22,7 @@ Python library for yige
 
 
 * Free software: MIT license
-* Documentation: https://yige.readthedocs.io.
+* Documentation: https://yige-python.readthedocs.io.
 
 Overview
 --------
