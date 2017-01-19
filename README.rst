@@ -85,13 +85,13 @@ Usage
     >>> DEV_ACCESS_TOKEN = '<YOUR_DEV_ACCESS_TOKEN>'
     >>> ai = yige.Yige(DEV_ACCESS_TOKEN)
     >>> payload= {}
-    >>> payload["name"] = "脚型"
-    >>> payload["type"] = 1
+    >>> payload["name"] = "脚型" # 词库名称
+    >>> payload["type"] = 1 #是否定义同义词 1是  0否
     >>> payload["automated_expansion"] = 0
-    >>> payload["entries"] = []
+    >>> payload["entries"] = [] # 词库内容
     >>> entity1 =  {
-                "value": "正常内旋",
-                "synonyms": [
+                "value": "正常内旋", # 同义词中比较权威的名称
+                "synonyms": [ #  同义词
                     "正常内旋",
                     "内旋正常",
                     "正常足弓",

@@ -5,6 +5,10 @@ import requests
 
 
 class TextRequest(object):
+    '''
+        doc:http://docs.yige.ai/Query%E6%8E%A5%E5%8F%A3.html
+        todo:action (wit.ai)
+    '''
     @property
     def query(self):
         """
@@ -32,27 +36,19 @@ class TextRequest(object):
         self.payload["session_id"] = session_id
 
     def getresponse(self):
-        # 允许设置query
-        #query
-        #if self._query:
-        # 请输入query
         self.payload["query"] = self._query
         r = requests.post(self.query_url, data=self.payload)
         return r  #不做任何处理，直接返回
 
-        # 如果解析出意图，如果没有解析出意图 置信度
-        '''
-        if r.status_code == 200:
-            r_json = r.json()
-            #answer = r_json["answer"]
-            return r_json
-            #print(r_json[])
-        else:
-            return "something error"
-        '''
+        # 如果解析出意图 or 如果没有解析出意图 (置信度)
+
 
 
 class UserEntitiesRequest(object):
+    '''
+        doc: http://docs.yige.ai/%E8%AF%8D%E5%BA%93.html
+        todo: CURD
+    '''
     @property
     def user_entities(self):
         "user_entities parameter for specification of same user entities."
@@ -74,13 +70,18 @@ class UserEntitiesRequest(object):
         self.entity_url  = base_url + path
         #self.url = "http://httpbin.org/post"  # test 正常
     
-    def getresponse(self):#正式提交
+    def getresponse(self):
             response = requests.post(self.entity_url,
                                      json=self.user_entities,
                                      headers=self.headers,
                                      verify=False)
             return response
-            #r_json = response.json()
-            #print(r_json)
-            #print(response)
-            #def get
+
+class IntentsRequest(object):
+    '''
+    doc:http://docs.yige.ai/%E5%9C%BA%E6%99%AF%E6%8E%A5%E5%8F%A3.html
+    todo:
+        CRUD : 类比django orm
+    '''
+    def __init__(self, client_access_token, base_url, version):
+        pass
