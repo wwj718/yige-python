@@ -8,7 +8,7 @@ This module provides a yige.ai classes to manage requests.
 
 __author__ = """wenjiewu"""
 __email__ = 'wuwenjie718@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __contributors__ = []
 __license__ = "MIT"
 from .yige import Yige
@@ -17,3 +17,4 @@ from .yige import Yige
 
 # 对外暴露
 __all__ = ['Yige']
+

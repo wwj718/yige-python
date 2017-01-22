@@ -105,6 +105,12 @@ Usage
     >>> print(user_entities_response.json())
    ...
 
+3. debug  console
+
+.. code-block:: bash
+
+    >>> yige --console
+    ...
 
 Test
 --------

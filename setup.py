@@ -20,14 +20,14 @@ test_requirements = [
 
 setup(
     name='yige',
-    version='0.1.0',
+    version='0.1.1',
     description="Python library for yige.ai",
     long_description=readme + '\n\n' + history,
     author="wenjiewu",
     author_email='wuwenjie718@gmail.com',
     url='https://github.com/wwj718/yige',
     packages=[
-        'yige',
+        'yige','examples' # include example dir //wwj
     ],
     package_dir={'yige':
                  'yige'},
@@ -50,5 +50,10 @@ setup(
         'Programming Language :: Python :: 3.5',
     ],
     test_suite='tests',
-    tests_require=test_requirements
+    tests_require=test_requirements,
+    entry_points={
+         'console_scripts': [
+             'yige = examples.send_text_example_prompt:main'
+            ]
+        }
 )

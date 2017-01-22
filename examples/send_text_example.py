@@ -24,7 +24,8 @@ def main():
 
     #request.query = "我想听老罗" #ok
     #request.query = "我想听" #ok
-    request.query = "老罗" #ok
+    # >>> python send_text_example.py 老罗
+    request.query = sys.argv[1] #"老罗" #ok
 
     response = request.getresponse() #注意置信度 confidence
     # 各个返回值的含义：http://docs.yige.ai/Query%E6%8E%A5%E5%8F%A3.html
