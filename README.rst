@@ -18,7 +18,7 @@ yige-python
      :alt: Updates
 
 
-Python library for yige
+Python library for yige. [中文](https://github.com/wwj718/yige-python/blob/master/readme.md)
 
 
 * Free software: MIT license
@@ -32,6 +32,7 @@ The yige Python SDK makes it easy to  use yige.ai
 Features
 --------
 
+*  debug console
 *  text query
 *  entity manage
 
@@ -51,22 +52,22 @@ or install it from repo:
 
      $ pip install https://github.com/wwj718/yige-python.git
 
-
-Running examples
---------
-
-1. Find examples from 'examples' path.
-2. Insert API key.
-
-.. code-block:: python
-
-    >>> CLIENT_ACCESS_TOKEN = '<YOUR_CLIENT_ACCESS_TOKEN>'
-    ...
-
 Usage
 ---------
+1. debug  console
 
-1. send text query
+.. code-block:: bash
+
+    >>> yige --console
+    ...
+
+
+.. image:: http://oav6fgfj1.bkt.clouddn.com/yige0b001117.png
+
+
+.. image:: http://oav6fgfj1.bkt.clouddn.com/yige792db9bd.png
+
+2. send text query
 
 .. code-block:: python
 
@@ -78,7 +79,7 @@ Usage
     >>> print(response.json())
     ...
 
-2. post user entities
+3. post user entities
 
 .. code-block:: python
 
@@ -105,12 +106,19 @@ Usage
     >>> print(user_entities_response.json())
    ...
 
-3. debug  console
 
-.. code-block:: bash
+Running examples
+--------
 
-    >>> yige --console
+1. Find examples from 'examples' path.
+2. Insert API key.
+
+.. code-block:: python
+
+    >>> CLIENT_ACCESS_TOKEN = '<YOUR_CLIENT_ACCESS_TOKEN>'
     ...
+
+
 
 Test
 --------
