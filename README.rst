@@ -20,6 +20,8 @@ yige-python
 
 Python library for yige. [中文](https://github.com/wwj718/yige-python/blob/master/readme.md)
 
+<a href="https://asciinema.org/a/7alk907q48i8evcgqdc09s9xu" target="_blank"><img src="https://asciinema.org/a/7alk907q48i8evcgqdc09s9xu.png" /></a>
+
 
 * Free software: MIT license
 * Documentation: https://yige-python.readthedocs.io.
@@ -62,10 +64,10 @@ Usage
     ...
 
 
-.. image:: http://oav6fgfj1.bkt.clouddn.com/yige0b001117.png
+.. image:: img/yige1.png
 
 
-.. image:: http://oav6fgfj1.bkt.clouddn.com/yige792db9bd.png
+.. image:: img/yige2.png
 
 2. send text query
 

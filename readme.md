@@ -2,11 +2,15 @@
 
 为yige.ai写的python sdk.  [英文版](https://github.com/wwj718/yige-python/blob/master/README.rst)
 
-开源协议: MIT license
-Documentation: https://yige-python.readthedocs.io.
+*  开源协议: MIT license
+*  Documentation: https://yige-python.readthedocs.io.
 
 # 简介
 yige.ai的非官方python sdk，方便大家在python下使用yige.ai
+
+下边是采用[asciinema](https://github.com/asciinema/asciinema)制作的[演示视频](https://asciinema.org/a/7alk907q48i8evcgqdc09s9xu)
+
+[![asciicast](https://asciinema.org/a/7alk907q48i8evcgqdc09s9xu.png)](https://asciinema.org/a/7alk907q48i8evcgqdc09s9xu)
 
 # 特性
 *  命令行调试界面
@@ -29,11 +33,12 @@ export YIGE_ACCESS_TOKEN=xxx #客户端访问令牌
 yige --console #初次运行会安装ipython
 ```
 
-![](http://oav6fgfj1.bkt.clouddn.com/yige0b001117.png)
+
+![](img/yige1.png)
 
 深入调试
 
-![](http://oav6fgfj1.bkt.clouddn.com/yige792db9bd.png)
+![](img/yige2.png)
 
 ### 作为python库使用
 

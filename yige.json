@@ -1,0 +1,1070 @@
+{
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "command": "fish",
+  "title": null,
+  "version": 1,
+  "duration": 62.352335,
+  "width": 178,
+  "stdout": [
+    [
+      0.07113,
+      "set: Warning: path component /Users/wwj/.pyenv/bin may not be valid in PATH.\r\nset: No such file or directory\r\n"
+    ],
+    [
+      0.086441,
+      "pyenv: no such command `sh-'\r\n"
+    ],
+    [
+      0.025307,
+      "alias: Body cannot be empty\r\n"
+    ],
+    [
+      0.003137,
+      "\u001b]0;fish  /Users/wwj\u0007\u001b[30m\u001b(B\u001b"
+    ],
+    [
+      4.3e-05,
+      "[m"
+    ],
+    [
+      0.002553,
+      "Welcome to fish, the friendly interactive shell\r\nType \u001b[32mhelp\u001b[30m\u001b(B\u001b[m for instructions on how to use fish\r\n"
+    ],
+    [
+      0.164899,
+      "\u001b]0;fish  /Users/wwj\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000896,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                 \r \r\u001b[2K"
+    ],
+    [
+      0.000225,
+      "\u001b[107m\u001b[30m py3.5 \u001b[44m\u001b[97m \u001b[44m\u001b[30m~ \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.07751,
+      "y"
+    ],
+    [
+      0.000531,
+      "\b\u001b[31m\u001b[1my\u001b(B\u001b[m"
+    ],
+    [
+      0.004846,
+      "\u001b[38;5;240mige --console\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.098648,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[38;5;240mge --console\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.118961,
+      "\u001b[31m\u001b[1mg\u001b(B\u001b[m\u001b[38;5;240me --console\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.10014,
+      "\u001b[31m\u001b[1me\u001b(B\u001b[m\u001b[38;5;240m --console\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000653,
+      "\b\b\b\b\u001b[38;5;26myige\u001b[38;5;240m --console\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.315191,
+      "\b\u001b[K"
+    ],
+    [
+      0.000311,
+      "\b\b\b\u001b[31m\u001b[1myig\u001b(B\u001b[m"
+    ],
+    [
+      0.209754,
+      "\b\u001b[K"
+    ],
+    [
+      0.114835,
+      "\b\u001b[K"
+    ],
+    [
+      0.100159,
+      "\b\u001b[K"
+    ],
+    [
+      0.309879,
+      "p"
+    ],
+    [
+      0.001173,
+      "\u001b[38;5;240mip install yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[79D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001006,
+      "\b\u001b[31m\u001b[1mp\u001b(B\u001b[m\u001b[38;5;240mip install yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[79D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.150424,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[38;5;240mp install yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[78D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096161,
+      "\u001b[31m\u001b[1mp\u001b(B\u001b[m\u001b[38;5;240m install yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[77D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001104,
+      "\b\b\b\u001b[38;5;26mpip\u001b[38;5;240m install yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[77D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.20888,
+      "\u001b[38;5;26m \u001b[38;5;240minstall yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[76D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001075,
+      "\b \u001b[38;5;240minstall yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[76D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.156872,
+      "i\u001b[38;5;240mnstall yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[75D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001242,
+      "\b\u001b[38;5;39m\u001b[4mi\u001b[38;5;240m\u001b[24mnstall yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[75D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.098666,
+      "\u001b[38;5;39m\u001b[4mn\u001b[38;5;240m\u001b[24mstall yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[74D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001107,
+      "\b\b\u001b[38;5;39min\u001b[38;5;240mstall yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[74D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.082988,
+      "\u001b[38;5;39ms\u001b[38;5;240mtall yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[73D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.099884,
+      "\u001b[38;5;39mt\u001b[38;5;240mall yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[72D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.100476,
+      "\u001b[38;5;39ma\u001b[38;5;240mll yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[71D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.099553,
+      "\u001b[38;5;39ml\u001b[38;5;240ml yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[70D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095053,
+      "\u001b[38;5;39ml\u001b[38;5;240m yige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[69D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.107722,
+      "\u001b[38;5;39m \u001b[38;5;240myige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[68D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001564,
+      "\b \u001b[38;5;240myige -i http://pypi.python.org/simple --trusted-host pypi.python.org\u001b[68D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.376362,
+      "yige -i http://pypi.python.org/simple --trusted-host pypi.python.org"
+    ],
+    [
+      0.001135,
+      "\u001b[68D\u001b[38;5;39myige\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m-i\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mhttp://pypi.python.org/simple\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m--trusted-host\u001b[30m\u001b(B\u001b[m \u001b[38;5;39mpypi.python.org\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.307721,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000315,
+      "\u001b]0;pip  /Users/wwj"
+    ],
+    [
+      3.3e-05,
+      "\u0007\u001b[30m\u001b(B\u001b[m\r"
+    ],
+    [
+      1.178713,
+      "Requirement already satisfied (use --upgrade to upgrade): yige in /usr/local/lib/python2.7/site-packages\r\n"
+    ],
+    [
+      0.003543,
+      "Requirement already satisfied (use --upgrade to upgrade): requests in /Library/Python/2.7/site-packages (from yige)\r\n"
+    ],
+    [
+      0.054018,
+      "\u001b[33mYou are using pip version 8.1.2, however version 9.0.1 is available.\r\nYou should consider upgrading via the 'pip install --upgrade pip' command.\u001b[0m\r\n"
+    ],
+    [
+      0.331843,
+      "\u001b]0;fish  /Users/wwj\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                 \r \r\u001b[2K"
+    ],
+    [
+      0.000222,
+      "\u001b[107m\u001b[30m py3.5 \u001b[44m\u001b[97m \u001b[44m\u001b[30m~ \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.652136,
+      "e"
+    ],
+    [
+      0.000684,
+      "\b\u001b[31m\u001b[1me\u001b(B\u001b[m"
+    ],
+    [
+      0.000827,
+      "\u001b[38;5;240mxport YIGE_ACCESS_TOKEN=6E9F500794DF7E9C37CA9C01540F89EE\u001b[56D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.305829,
+      "\u001b[31m\u001b[1mx\u001b(B\u001b[m\u001b[38;5;240mport YIGE_ACCESS_TOKEN=6E9F500794DF7E9C37CA9C01540F89EE\u001b[55D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000933,
+      "\b\b\u001b[38;5;26mex\u001b[38;5;240mport YIGE_ACCESS_TOKEN=6E9F500794DF7E9C37CA9C01540F89EE\u001b[55D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.685976,
+      "\u001b[38;5;26mport YIGE_ACCESS_TOKEN=6E9F500794DF7E9C37CA9C01540F89EE\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000751,
+      "\u001b[51D \u001b[38;5;39mYIGE_ACCESS_TOKEN=6E9F500794DF7E9C37CA9C01540F89EE\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.348001,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000356,
+      "\u001b]0;export  /Users/wwj\u0007\u001b[30m\u001b(B\u001b[m\r"
+    ],
+    [
+      0.147271,
+      "\u001b]0;fish  /Users/wwj\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                 \r \r\u001b[2K"
+    ],
+    [
+      0.000152,
+      "\u001b[107m\u001b[30m py3.5 \u001b[44m\u001b[97m \u001b[44m\u001b[30m~ \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      1.02806,
+      "y"
+    ],
+    [
+      0.000613,
+      "\b\u001b[31m\u001b[1my\u001b(B\u001b[m"
+    ],
+    [
+      0.004576,
+      "\u001b[38;5;240mige --console\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.098754,
+      "\u001b[31m\u001b[1mi\u001b(B\u001b[m\u001b[38;5;240mge --console\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.120095,
+      "\u001b[31m\u001b[1mg\u001b(B\u001b[m\u001b[38;5;240me --console\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063875,
+      "\u001b[31m\u001b[1me\u001b(B\u001b[m\u001b[38;5;240m --console\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000676,
+      "\b\b\b\b\u001b[38;5;26myige\u001b[38;5;240m --console\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.115436,
+      "\u001b[38;5;26m \u001b[38;5;240m--console\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000614,
+      "\b \u001b[38;5;240m--console\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.189857,
+      "-\u001b[38;5;240m-console\b\b\b\b\b\b\b\b\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000962,
+      "\b\u001b[38;5;39m-\u001b[38;5;240m-console\b\b\b\b\b\b\b\b\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.131359,
+      "\u001b[38;5;39m-\u001b[38;5;240mconsole\b\b\b\b\b\b\b\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.423889,
+      "\u001b[38;5;39mconsole\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.623812,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000315,
+      "\u001b]0;yige  /Users/wwj\u0007"
+    ],
+    [
+      7.1e-05,
+      "\u001b[30m\u001b(B\u001b[m\r"
+    ],
+    [
+      1.517394,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.002158,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0m> \u001b[2D\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011964,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[0;38;5;15;48;5;236m使用: 1.query: 我想买鞋  2.简单调试: !run xxx  3.复杂调试: !debug                                                                                                                \r\u001b[177C \r\u001b[16A\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.236956,
+      "\u001b[?25l\u001b[0m我\u001b[0m想\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00579,
+      "\u001b[?25l\u001b[0;38;5;241m买鞋\u001b[4D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.030175,
+      "\u001b[?25l\u001b[0m买\u001b[0m鞋\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006137,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.195985,
+      "\u001b[?25l\u001b[10D\u001b[0m\u001b[J\u001b[0m> \u001b[0m我\u001b[0m想\u001b[0m买\u001b[0m鞋\u001b[10D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007709,
+      "\u001b[?2004l"
+    ],
+    [
+      0.422846,
+      "{\r\n    \u001b[34;01m\"action\"\u001b[39;49;00m: {\r\n        \u001b[34;01m\"complete\"\u001b[39;49;00m: \u001b[34mtrue\u001b[39;49;00m, \r\n        \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"\"\u001b[39;49;00m, \r\n        \u001b[34;01m\"parameters\"\u001b[39;49;00m: [\r\n            {\r\n                \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"address\"\u001b[39;49;00m, \r\n                \u001b[34;01m\"original\"\u001b[39;49;00m: \u001b[33m\"北京\"\u001b[39;49;00m, \r\n                \u001b[34;01m\"type\"\u001b[39;49;00m: \u001b[33m\"yige.address\"\u001b[39;49;00m, \r\n                \u001b[34;01m\"value\"\u001b[39;49;00m: \u001b[33m\"北京\"\u001b[39;49;00m\r\n            }\r\n        ]\r\n    }, \r\n    \u001b[34;01m\"agent_id\"\u001b[39;49;00m: \u001b[33m\"619379AD-93A1-C887-D68E-7217D9B5ED58\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"answer\"\u001b[39;49;00m: \u001b[33m\"好的，您是什么脚型呢？\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"confidence\"\u001b[39;49;00m: \u001b[34m0.65224715113757\u001b[39;49;00m, \r\n    \u001b[34;01m\"emotion\"\u001b[39;49;00m: {\r\n        \u001b[34;01m\"negative\"\u001b[39;49;00m: \u001b[34m0.007919705283701\u001b[39;49;00m, \r\n        \u001b[34;01m\"neutral\"\u001b[39;49;00m: \u001b[34m0.98559873739357\u001b[39;49;00m, \r\n        \u001b[34;01m\"positive\"\u001b[39;49;00"
+    ],
+    [
+      5.2e-05,
+      "m: \u001b[34m0.0064815573227318\u001b[39;49;00m\r\n    }, \r\n    \u001b[34;01m\"id\"\u001b[39;49;00m: \u001b[33m\"7F030BE5-FBA4-59F6-CC54-61C997189F22\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"intent_id\"\u001b[39;49;00m: \u001b[33m\"F734AB4D-7DDE-51CE-5A40-D4E84A4DC814\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"intent_name\"\u001b[39;49;00m: \u001b[33m\"0-跑鞋推荐\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"parameter_recognize\"\u001b[39;49;00m: [\r\n        {\r\n            \u001b[34;01m\"text\"\u001b[39;49;00m: \u001b[33m\"我想买鞋\"\u001b[39;49;00m\r\n        }\r\n    ], \r\n    \u001b[34;01m\"query\"\u001b[39;49;00m: \u001b[33m\"我想买鞋\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"segmented_query\"\u001b[39;49;00m: [\r\n        \u001b[33m\"我\"\u001b[39;49;00m, \r\n        \u001b[33m\"想\"\u001b[39;49;00m, \r\n        \u001b[33m\"买鞋\"\u001b[39;49;00m\r\n    ], \r\n    \u001b[34;01m\"session_id\"\u001b[39;49;00m: \u001b[33m\"ec49e716795b443aae2c034aa303d81e\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"state\"\u001b[39;49;00m: [\r\n        {\r\n            \u001b[34;01m\"life_count\"\u001b[39;49;00m: \u001b[34m5\u001b[39;49;00m, \r\n            \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"shoe_first\"\u001b[39;49;00m, \r\n            \u001b[34;01m\"parameters\"\u001b[39;49;00m: [\r\n                {\r\n         "
+    ],
+    [
+      0.000496,
+      "           \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"address\"\u001b[39;49;00m, \r\n                    \u001b[34;01m\"original\"\u001b[39;49;00m: \u001b[33m\"北京\"\u001b[39;49;00m, \r\n                    \u001b[34;01m\"type\"\u001b[39;49;00m: \u001b[33m\"yige.address\"\u001b[39;49;00m, \r\n                    \u001b[34;01m\"value\"\u001b[39;49;00m: \u001b[33m\"北京\"\u001b[39;49;00m\r\n                }\r\n            ]\r\n        }\r\n    ], \r\n    \u001b[34;01m\"status\"\u001b[39;49;00m: {\r\n        \u001b[34;01m\"code\"\u001b[39;49;00m: \u001b[33m\"200\"\u001b[39;49;00m, \r\n        \u001b[34;01m\"error_type\"\u001b[39;49;00m: \u001b[33m\"场景识别成功\"\u001b[39;49;00m\r\n    }, \r\n    \u001b[34;01m\"time\"\u001b[39;49;00m: \u001b[33m\"2017-01-23 14:55:43\"\u001b[39;49;00m\r\n"
+    ],
+    [
+      5.2e-05,
+      "}\r\n\r\n"
+    ],
+    [
+      0.018087,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001391,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0m> \u001b[2D\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003968,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;15;48;5;236m使用: 1.query: 我想买鞋  2.简单调试: !run xxx  3.复杂调试: !debug                                                                                                                \r\u001b[177C \r\u001b[A\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      7.759878,
+      "\u001b[?25l\u001b[0m正\u001b[0m常\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002629,
+      "\u001b[?25l\u001b[0;38;5;241m脚型\u001b[4D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.240504,
+      "\u001b[?25l\u001b[0m脚\u001b[0m型\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002922,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.308867,
+      "\u001b[?25l\u001b[10D\u001b[0m\u001b[J\u001b[0m> \u001b[0m正\u001b[0m常\u001b[0m脚\u001b[0m型\u001b[10D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008712,
+      "\u001b[?2004l"
+    ],
+    [
+      0.337099,
+      "{\r\n    \u001b[34;01m\"action\"\u001b[39;49;00m: {\r\n        \u001b[34;01m\"complete\"\u001b[39;49;00m: \u001b[34mtrue\u001b[39;49;00m, \r\n        \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"\"\u001b[39;49;00m, \r\n        \u001b[34;01m\"parameters\"\u001b[39;49;00m: [\r\n            {\r\n                \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"type\"\u001b[39;49;00m, \r\n                \u001b[34;01m\"original\"\u001b[39;49;00m: \u001b[33m\"\"\u001b[39;49;00m, \r\n                \u001b[34;01m\"type\"\u001b[39;49;00m: \u001b[33m\"脚型\"\u001b[39;49;00m, \r\n                \u001b[34;01m\"value\"\u001b[39;49;00m: \u001b[33m\"\"\u001b[39;49;00m\r\n            }\r\n        ]\r\n    }, \r\n    \u001b[34;01m\"agent_id\"\u001b[39;49;00m: \u001b[33m\"619379AD-93A1-C887-D68E-7217D9B5ED58\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"answer\"\u001b[39;49;00m: \u001b[33m\"好，您适合穿缓震型和支撑型的跑鞋哦。建议您购买Asics的Nimbus，Cumulus或者Kayano系列哦。\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"confidence\"\u001b[39;49;00m: \u001b[34m0.35367651127129\u001b[39;49;00m, \r\n    \u001b[34;01m\"emotion\"\u001b[39;49;00m: {\r\n        \u001b[34;01m\"negative\"\u001b[39;49;00m: \u001b[34m0.3250831261265\u001b[39;49;00m, \r\n        \u001b[34;01m\"neutral\"\u001b[39;49;00m: \u001b[34m0.0013"
+    ],
+    [
+      6.2e-05,
+      "729353969522\u001b[39;49;00m, \r\n        \u001b[34;01m\"positive\"\u001b[39;49;00m: \u001b[34m0.67354393847655\u001b[39;49;00m\r\n    }, \r\n    \u001b[34;01m\"id\"\u001b[39;49;00m: \u001b[33m\"79745E08-26A3-68B6-DCF8-0AD5D3073903\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"intent_id\"\u001b[39;49;00m: \u001b[33m\"C11D74CB-6643-2FEF-9ADD-981909207FC8\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"intent_name\"\u001b[39;49;00m: \u001b[33m\"1.2-脚型-正常\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"parameter_recognize\"\u001b[39;49;00m: [\r\n        {\r\n            \u001b[34;01m\"text\"\u001b[39;49;00m: \u001b[33m\"正常脚型\"\u001b[39;49;00m\r\n        }\r\n    ], \r\n    \u001b[34;01m\"query\"\u001b[39;49;00m: \u001b[33m\"正常脚型\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"segmented_query\"\u001b[39;49;00m: [\r\n        \u001b[33m\"正常\"\u001b[39;49;00m, \r\n        \u001b[33m\"脚型\"\u001b[39;49;00m\r\n    ], \r\n    \u001b[34;01m\"session_id\"\u001b[39;49;00m: \u001b[33m\"ec49e716795b443aae2c034aa303d81e\"\u001b[39;49;00m, \r\n    \u001b[34;01m\"state\"\u001b[39;49;00m: [\r\n        {\r\n            \u001b[34;01m\"life_count\"\u001b[39;49;00m: \u001b[34m3\u001b[39;49;00m, \r\n            \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"shoe_first\"\u001b[39;49;00m, \r\n            \u001b[34;01m\"parameters\"\u001b[39;49;00"
+    ],
+    [
+      0.000596,
+      "m: [\r\n                {\r\n                    \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"address\"\u001b[39;49;00m, \r\n                    \u001b[34;01m\"original\"\u001b[39;49;00m: \u001b[33m\"北京\"\u001b[39;49;00m, \r\n                    \u001b[34;01m\"type\"\u001b[39;49;00m: \u001b[33m\"yige.address\"\u001b[39;49;00m, \r\n                    \u001b[34;01m\"value\"\u001b[39;49;00m: \u001b[33m\"北京\"\u001b[39;49;00m\r\n                }\r\n            ]\r\n        }, \r\n        {\r\n            \u001b[34;01m\"life_count\"\u001b[39;49;00m: \u001b[34m5\u001b[39;49;00m, \r\n            \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"shoe_neutral\"\u001b[39;49;00m, \r\n            \u001b[34;01m\"parameters\"\u001b[39;49;00m: [\r\n                {\r\n                    \u001b[34;01m\"name\"\u001b[39;49;00m: \u001b[33m\"type\"\u001b[39;49;00m, \r\n                    \u001b[34;01m\"original\"\u001b[39;49;00m: \u001b[33m\"\"\u001b[39;49;00m, \r\n"
+    ],
+    [
+      0.00047,
+      "                    \u001b[34;01m\"type\"\u001b[39;49;00m: \u001b[33m\"脚型\"\u001b[39;49;00m, \r\n                    \u001b[34;01m\"value\"\u001b[39;49;00m: \u001b[33m\"\"\u001b[39;49;00m\r\n                }\r\n            ]\r\n        }\r\n    ], \r\n    \u001b[34;01m\"status\"\u001b[39;49;00m: {\r\n        \u001b[34;01m\"code\"\u001b[39;49;00m: \u001b[33m\"200\"\u001b[39;49;00m, \r\n        \u001b[34;01m\"error_type\"\u001b[39;49;00m: \u001b[33m\"场景识别成功\"\u001b[39;49;00m\r\n    }, \r\n    \u001b[34;01m\"time\"\u001b[39;49;00m: \u001b[33m\"2017-01-23 14:55:53\"\u001b[39;49;00m\r\n}\r\n\r\n"
+    ],
+    [
+      0.015082,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001549,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0m> \u001b[2D\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004568,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;15;48;5;236m使用: 1.query: 我想买鞋  2.简单调试: !run xxx  3.复杂调试: !debug                                                                                                                \r\u001b[177C \r\u001b[A\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.837499,
+      "\u001b[?25l\u001b[0m！\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002915,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.636086,
+      "\u001b[?25l\u001b[2D\u001b[0m  \u001b[2D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.517308,
+      "\u001b[?25l\u001b[0m!\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002056,
+      "\u001b[?25l\u001b[0;38;5;241mdebug\u001b[5D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.730445,
+      "\u001b[?25l\u001b[0m \u001b[0m    \u001b[4D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002508,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.675683,
+      "\u001b[?25l\b\u001b[0m \b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.285377,
+      "\u001b[?25l\u001b[0mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002264,
+      "\u001b[?25l\u001b[0;38;5;241mun print(dir(response))\u001b[23D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.148586,
+      "\u001b[?25l\u001b[0mu\u001b[0m                      \u001b[22D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002078,
+      "\u001b[?25l\u001b[0;38;5;241mn print(dir(response))\u001b[22D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.082007,
+      "\u001b[?25l\u001b[0mn\u001b[0m                     \u001b[21D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002422,
+      "\u001b[?25l\u001b[0;38;5;241m print(dir(response))\u001b[21D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118354,
+      "\u001b[?25l\u001b[0m \u001b[0m                    \u001b[20D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002879,
+      "\u001b[?25l\u001b[0;38;5;241mprint(dir(response))\u001b[20D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.99195,
+      "\u001b[?25l\u001b[0mp\u001b[0mr\u001b[0mi\u001b[0mn\u001b[0mt\u001b[0m(\u001b[0md\u001b[0mi\u001b[0mr\u001b[0m(\u001b[0mr\u001b[0me\u001b[0ms\u001b[0mp\u001b[0mo\u001b[0mn\u001b[0ms\u001b[0me\u001b[0m)\u001b[0m)\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001794,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.794895,
+      "\u001b[?25l\u001b[27D\u001b[0m\u001b[J\u001b[0m> \u001b[0m!\u001b[0mr\u001b[0mu\u001b[0mn\u001b[0m \u001b[0mp\u001b[0mr\u001b[0mi\u001b[0mn\u001b[0mt\u001b[0m(\u001b[0md\u001b[0mi\u001b[0mr\u001b[0m(\u001b[0mr\u001b[0me\u001b[0ms\u001b[0mp\u001b[0mo\u001b[0mn\u001b[0ms\u001b[0me\u001b[0m)\u001b[0m)\u001b[27D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008661,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000335,
+      "['__attrs__', '__bool__', '__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__getstate__', '__hash__', '__init__', '__iter__', '__module__', '__new__', '__nonzero__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__setstate__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_content', '_content_consumed', 'apparent_encoding', 'close', 'connection', 'content', 'cookies', 'elapsed', 'encoding', 'headers', 'history', 'is_permanent_redirect', 'is_redirect', 'iter_content', 'iter_lines', 'json', 'links', 'ok', 'raise_for_status', 'raw', 'reason', 'request', 'status_code', 'text', 'url']\r\n"
+    ],
+    [
+      0.019426,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001475,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0m> \u001b[2D\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003974,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;15;48;5;236m使用: 1.query: 我想买鞋  2.简单调试: !run xxx  3.复杂调试: !debug                                                                                                                \r\u001b[177C \r\u001b[A\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.406468,
+      "\u001b[?25l\u001b[0m!\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002166,
+      "\u001b[?25l\u001b[0;38;5;241mrun print(dir(response))\u001b[24D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.235292,
+      "\u001b[?25l\u001b[0md\u001b[0m                       \u001b[23D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002013,
+      "\u001b[?25l\u001b[0;38;5;241mebug\u001b[4D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152742,
+      "\u001b[?25l\u001b[0me\u001b[0m   \u001b[3D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001999,
+      "\u001b[?25l\u001b[0;38;5;241mbug\u001b[3D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149207,
+      "\u001b[?25l\u001b[0mb\u001b[0m  \u001b[2D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002234,
+      "\u001b[?25l\u001b[0;38;5;241mug\u001b[2D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.082715,
+      "\u001b[?25l\u001b[0mu\u001b[0m \b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00318,
+      "\u001b[?25l\u001b[0;38;5;241mg\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.412832,
+      "\u001b[?25l\u001b[0mg\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001899,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.447815,
+      "\u001b[?25l\u001b[8D\u001b[0m\u001b[J\u001b[0m> \u001b[0m!\u001b[0md\u001b[0me\u001b[0mb\u001b[0mu\u001b[0mg\u001b[8D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009614,
+      "\u001b[?2004l"
+    ],
+    [
+      0.013447,
+      "/usr/local/lib/python2.7/site-packages/IPython/core/interactiveshell.py:724: UserWarning: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.\r\n  warn(\"Attempting to work in a virtualenv. If you encounter problems, please \"\r\n"
+    ],
+    [
+      0.268098,
+      "\r\n\r\nyige.ai debug console \r\n    --  by 『wwj718』(blog.just4fun.site) \r\n    --  如有建议或bug,欢迎发我邮件:wuwenjie718@gmail.com\r\n"
+    ],
+    [
+      4.2e-05,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001808,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m1\u001b[0;38;5;28m]: \u001b[8D\u001b[8C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003559,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.075273,
+      "\u001b[?25l\u001b[0m!\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.503035,
+      "\u001b[?25l\u001b[0md\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147677,
+      "\u001b[?25l\u001b[0me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165196,
+      "\u001b[?25l\u001b[0mb\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.08018,
+      "\u001b[?25l\u001b[0mu\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.752645,
+      "\u001b[?25l\b\u001b[0m \b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.240082,
+      "\u001b[?25l\b\u001b[0m \b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120639,
+      "\u001b[?25l\b\u001b[0m \b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088552,
+      "\u001b[?25l\b\u001b[0m \b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.12773,
+      "\u001b[?25l\b\u001b[0m \b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.472104,
+      "\u001b[?25l\u001b[0mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.066376,
+      "\u001b[?25l\u001b[0me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.171749,
+      "\u001b[?25l\u001b[0ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.228099,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.022115,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m %reset           response         \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m %reset_selective rest-server/     \u001b[0m\r\r\n\r\r\n\r\r\n\u001b[5A\u001b[11C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.413168,
+      "\u001b[?25l\u001b[0mp\u001b[0m\r\r\n\u001b[11C\u001b[0m                                   \u001b[0m\r\r\n\u001b[11C\u001b[0m                                   \u001b[2A\u001b[34D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.12451,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004678,
+      "\u001b[?25l\u001b[0monse\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.696491,
+      "\u001b[?25l\u001b[16D\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m1\u001b[0;38;5;28m]: \u001b[0mresponse\u001b[16D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000155,
+      "\u001b[?2004l"
+    ],
+    [
+      0.010113,
+      "\u001b[0m\u001b[?7h\u001b[0;38;5;88mOut[\u001b[0;38;5;9;1m1\u001b[0;38;5;88m]: \u001b[0m"
+    ],
+    [
+      0.002387,
+      "<Response [200]>\r\n"
+    ],
+    [
+      0.000278,
+      "\r\n"
+    ],
+    [
+      0.000524,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.003327,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m2\u001b[0;38;5;28m]: \u001b[8D\u001b[8C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002437,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003397,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\u001b[2A\u001b[8C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.360496,
+      "\u001b[?25l\u001b[0mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.076465,
+      "\u001b[?25l\u001b[0me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.171609,
+      "\u001b[?25l\u001b[0ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.457529,
+      "\u001b[?25l\u001b[0mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.110452,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003882,
+      "\u001b[?25l\u001b[0monse\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.333495,
+      "\u001b[?25l\u001b[0m.\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.746131,
+      "\u001b[?25l\u001b[0ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.132565,
+      "\u001b[?25l\u001b[0mt\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.212225,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004174,
+      "\u001b[?25l\u001b[0matus_code\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.538149,
+      "\u001b[?25l\u001b[28D\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m2\u001b[0;38;5;28m]: \u001b[0mresponse\u001b[0m.\u001b[0mstatus_code\u001b[28D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000113,
+      "\u001b[?2004l"
+    ],
+    [
+      0.00126,
+      "\u001b[0m\u001b[?7h\u001b[0;38;5;88mOut[\u001b[0;38;5;9;1m2\u001b[0;38;5;88m]: \u001b[0m"
+    ],
+    [
+      0.000405,
+      "200\r\n"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.000361,
+      "\u001b[?1l"
+    ],
+    [
+      3e-05,
+      "\u001b[6n"
+    ],
+    [
+      0.002306,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m3\u001b[0;38;5;28m]: \u001b[8D\u001b[8C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.0019,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001792,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.337585,
+      "\u001b[?25l\u001b[0mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028001,
+      "\u001b[?25l\u001b[0me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.218237,
+      "\u001b[?25l\u001b[0ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.213808,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007356,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m %reset           response         \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m %reset_selective rest-server/     \u001b[0m\r\r\n\r\r\n\r\r\n\u001b[5A\u001b[11C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.475787,
+      "\u001b[?25l\u001b[0mp\u001b[0m\r\r\n\u001b[11C\u001b[0m                                   \u001b[0m\r\r\n\u001b[11C\u001b[0m                                   \u001b[2A\u001b[34D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.140066,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004278,
+      "\u001b[?25l\u001b[0monse\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.889238,
+      "\u001b[?25l\u001b[0m.\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.893674,
+      "\u001b[?25l\u001b[0mj\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078132,
+      "\u001b[?25l\u001b[0ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.296856,
+      "\u001b[?25l\u001b[0mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115919,
+      "\u001b[?25l\u001b[0mn\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.621117,
+      "\u001b[?25l\u001b[0m(\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.049551,
+      "\u001b[?25l\b\u001b[0;38;5;0;48;5;152m()\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.510901,
+      "\u001b[?25l\u001b[23D\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m3\u001b[0;38;5;28m]: \u001b[0mresponse\u001b[0m.\u001b[0mjson\u001b[0m()\u001b[23D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000228,
+      "\u001b[?2004l"
+    ],
+    [
+      0.001412,
+      "\u001b[0m\u001b[?7h\u001b[0;38;5;88mOut[\u001b[0;38;5;9;1m3\u001b[0;38;5;88m]: \u001b[0m"
+    ],
+    [
+      0.004087,
+      "\r\n{u'action': {u'complete': True,\r\n  u'name': u'',\r\n  u'parameters': [{u'name': u'type',\r\n    u'original': u'',\r\n    u'type': u'\\u811a\\u578b',\r\n    u'value': u''}]},\r\n u'agent_id': u'619379AD-93A1-C887-D68E-7217D9B5ED58',\r\n u'answer': u'\\u597d\\uff0c\\u60a8\\u9002\\u5408\\u7a7f\\u7f13\\u9707\\u578b\\u548c\\u652f\\u6491\\u578b\\u7684\\u8dd1\\u978b\\u54e6\\u3002\\u5efa\\u8bae\\u60a8\\u8d2d\\u4e70Asics\\u7684Nimbus\\uff0cCumulus\\u6216\\u8005Kayano\\u7cfb\\u5217\\u54e6\\u3002',\r\n u'confidence': 0.35367651127129,\r\n u'emotion': {u'negative': 0.3250831261265,\r\n  u'neutral': 0.0013729353969522,\r\n  u'positive': 0.67354393847655},\r\n u'id': u'79745E08-26A3-68B6-DCF8-0AD5D3073903',\r\n u'intent_id': u'C11D74CB-6643-2FEF-9ADD-981909207FC8',\r\n u'intent_name': u'1.2-\\u811a\\u578b-\\u6b63\\u5e38',\r\n u'parameter_recognize': [{u'text': u'\\u6b63\\u5e38\\u811a\\u578b'}],\r\n u'query': u'\\u6b63\\u5e38\\u811a\\u578b',\r\n u'segmented_query': [u'\\u6b63\\u5e38', u'\\u811a\\u578b'],\r\n u'session_id': u'ec49e716795b443aae2c034aa303d81e',\r\n u'state': [{u'life_count': 3,\r\n"
+    ],
+    [
+      6.7e-05,
+      "   u'name': u'shoe_first',\r\n   u'parameters': [{u'name': u'address',\r\n     u'original': u'\\u5317\\u4eac',\r\n     u'type': u'yige.address',\r\n     u'value': u'\\u5317\\u4eac'}]},\r\n  {u'life_count': 5,\r\n   u'name': u'shoe_neutral',\r\n   u'parameters': [{u'name': u'type',\r\n     u'original': u'',\r\n     u'type': u'\\u811a\\u578b',\r\n     u'value': u''}]}],\r\n u'status': {u'code': u'200',\r\n  u'error_type': u'\\u573a\\u666f\\u8bc6\\u522b\\u6210\\u529f'},\r\n u'time': u'2017-01-23 14:55:53'}\r\n"
+    ],
+    [
+      0.000292,
+      "\r\n"
+    ],
+    [
+      0.000339,
+      "\u001b[?1l"
+    ],
+    [
+      3.2e-05,
+      "\u001b[6n"
+    ],
+    [
+      0.002177,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m4\u001b[0;38;5;28m]: \u001b[8D\u001b[8C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001678,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.448733,
+      "\u001b[?25l\u001b[0mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.043383,
+      "\u001b[?25l\u001b[0me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.180296,
+      "\u001b[?25l\u001b[0ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.229289,
+      "\u001b[?25l\u001b[0mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.498218,
+      "\u001b[?25l\b\u001b[0m \b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.188746,
+      "\u001b[?25l\u001b[0mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.137973,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003495,
+      "\u001b[?25l\u001b[0monse\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.903489,
+      "\u001b[?25l\u001b[0m.\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.311971,
+      "\u001b[?25l\u001b[0mh\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083979,
+      "\u001b[?25l\u001b[0me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.169106,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003706,
+      "\u001b[?25l\u001b[0maders\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.583511,
+      "\u001b[?25l\u001b[24D\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m4\u001b[0;38;5;28m]: \u001b[0mresponse\u001b[0m.\u001b[0mheaders\u001b[24D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000215,
+      "\u001b[?2004l"
+    ],
+    [
+      0.001459,
+      "\u001b[0m\u001b[?7h\u001b[0;38;5;88mOut[\u001b[0;38;5;9;1m4\u001b[0;38;5;88m]: \u001b[0m"
+    ],
+    [
+      0.000648,
+      "{'Access-Control-Allow-Methods': 'GET,POST,OPTIONS', 'Transfer-Encoding': 'chunked', 'Set-Cookie': 'yige_session=eyJpdiI6IjhRZDJaY2M2MStFTlBtNzlNTGlpMUE9PSIsInZhbHVlIjoiYzVDODZRZHVzWTQzbk9Cb2loRmxpbFUrb0FLejV6SG9QMjlNSGNFUnFGVmhraEpYQW9Rek9wYmh3bHBrdTRoUU1OKzJyNXMzNzkwUTA0a243UU1RR2c9PSIsIm1hYyI6IjkxN2E4ZjQ0YjIwMWM4M2M1MzMzOWQ0OGQ3Y2M2NmJhZTdhNGY2ZjVhNDNhMmM0NmIzZjQyMGZhMTYzMjhkYTAifQ%3D%3D; expires=Mon, 23-Jan-2017 08:55:53 GMT; Max-Age=7200; path=/; domain=.yige.ai; httponly', 'Server': 'nginx', 'Connection': 'keep-alive', 'Cache-Control': 'no-cache', 'Date': 'Mon, 23 Jan 2017 06:55:53 GMT', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'X-Requested-With', 'Content-Type': 'application/json'}\r\n"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.000396,
+      "\u001b[?1l"
+    ],
+    [
+      4.6e-05,
+      "\u001b[6n"
+    ],
+    [
+      0.002249,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0;38;5;28mIn [\u001b[0;38;5;10;1m5\u001b[0;38;5;28m]: \u001b[8D\u001b[8C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002101,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001823,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.677923,
+      "\u001b[?25l\u001b[8D\u001b[0m\u001b[J\u001b[0;38;5;102mIn [5]:                                                                                                                                                                          \r\u001b[177C \r\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000173,
+      "\u001b[?2004l"
+    ],
+    [
+      9.6e-05,
+      "Do you really want to exit ([y]/n)? "
+    ],
+    [
+      0.916741,
+      "y"
+    ],
+    [
+      0.148901,
+      "\r\n"
+    ],
+    [
+      0.000291,
+      "\r\n"
+    ],
+    [
+      0.017709,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001426,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0m> \u001b[2D\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004022,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;15;48;5;236m使用: 1.query: 我想买鞋  2.简单调试: !run xxx  3.复杂调试: !debug                                                                                                                \r\u001b[177C \r\u001b[A\u001b[2C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.675649,
+      "\u001b[?25l\u001b[2D\u001b[0m\u001b[J\u001b[0;38;5;102m>                                                                                                                                                                                \r\u001b[177C \r\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000179,
+      "\u001b[?2004l"
+    ],
+    [
+      0.629294,
+      "\u001b]0;fish  /Users/wwj\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000176,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                                                                                                                 \r \r\u001b[2K"
+    ],
+    [
+      0.000296,
+      "\u001b[107m\u001b[30m py3.5 \u001b[44m\u001b[97m \u001b[44m\u001b[30m~ \u001b[40m\u001b(B\u001b[m\u001b[34m \u001b[K"
+    ],
+    [
+      0.390195,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      6.7e-05,
+      "\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ],
+  "height": 41
+}
