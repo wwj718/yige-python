@@ -6,6 +6,8 @@
     *  actions是应用级别的，回调
 *  example ，使用Python Prompt Toolkit构建强大的REPL
     *  对属性进行提示，否则类似ipython 自定义的关键字 option
-*  json/color
-    *  https://github.com/jkbrzt/httpie/blob/master/httpie/output/formatters/json.py
-*  入口使用example prompt
+- [x]  json/color
+    - [x]  https://github.com/jkbrzt/httpie/blob/master/httpie/output/formatters/json.py
+- [x]  入口使用example prompt
+- [ ]  库日志
+    - [ ] logger (当作module logger来写)

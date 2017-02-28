@@ -11,6 +11,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     "requests",
+    "funcsigs",
     # TODO: put package requirements here
 ]
 
@@ -20,7 +21,7 @@ test_requirements = [
 
 setup(
     name='yige',
-    version='0.1.1',
+    version='0.2.0',
     description="Python library for yige.ai",
     long_description=readme + '\n\n' + history,
     author="wenjiewu",

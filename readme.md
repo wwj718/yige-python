@@ -45,13 +45,45 @@ yige --console #初次运行会安装ipython
 1. query
 
 ```python
+import yige 
 CLIENT_ACCESS_TOKEN = '<YOUR_CLIENT_ACCESS_TOKEN>' #客户端访问令牌
 ai = yige.Yige(CLIENT_ACCESS_TOKEN)
 request = ai.text_request()
 request.query = "我想买鞋"
-response = request.getresponse() #注意置信度 confidence
-print(response.json())
+query_response = request.getresponse() #注意置信度 confidence
+print(query_response.json())
 ```
+
+为了方便大家管理action，该项目提供了一些脚手架来帮助大家，可能会影响到整个flow，如果有更好的建议欢迎提出
+
+```
+from yige import Yige,ActionHandle,run_action
+
+class MyActionHandle(ActionHandle):
+
+    def __init__(self,query_response):
+        ActionHandle.__init__(self,query_response)
+
+    def action_get_weather(self,**kwargs):
+        '''
+        以action_开头，get_weather 为 yige的动作名称
+        kwargs is dict : action parameters and _answer
+        '''
+        for name, value in kwargs.items():
+            print(name,value)
+        # 接入本地api或是网络服务
+        weather = "晴天☀️"
+        return weather
+    # tip 如果什么都没命中 yige会接入到闲聊
+
+
+#print(query_response.json())
+a_h = MyActionHandle(query_response) #query_response 与上边的例子相同
+action_res = run_action(a_h) 
+print(action_res)
+```
+
+具体demo参考`examples/action_handle.py`
 
 2.  实体创建
 
@@ -79,7 +111,7 @@ user_entities_response = user_entities_request.getresponse()
 print(user_entities_response.json())
 ```
 
-3. 创景
+3. 场景
 
 waiting...
 
