@@ -63,7 +63,7 @@ def run_action(actionHandleInstance,confidence =0.5,logger=None):
         if  response_confidence <= confidence:
             response={}
             response["success"] = False
-            response["message"] = "confidence is low: {} , is should >= {}".fotmat(query_response_json["confidence"],confidence)
+            response["message"] = "confidence is low: {} , is should >= {}".format(query_response_json["confidence"],confidence)
             logger.warning(response["message"])
             return response
         action = query_response_json["action"]
@@ -94,7 +94,7 @@ def run_action(actionHandleInstance,confidence =0.5,logger=None):
             response["success"] = True
             response["message"] = None
             response["action_name"] = action_name #记录下命中的action
-            response["data"] = func(**parameters)
+            response["answer"] = func(**parameters)
             return response
         return None
 
