@@ -21,7 +21,7 @@ test_requirements = [
 
 setup(
     name='yige',
-    version='0.2.0',
+    version='0.2.1',
     description="Python library for yige.ai",
     long_description=readme + '\n\n' + history,
     author="wenjiewu",
